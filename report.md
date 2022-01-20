@@ -7,13 +7,17 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/OrekhovRA/Java_1.2.2/issues/1#issue-1101578411
+
+* <a href="https://github.com/OrekhovRA/Java_1.2.2/issues/1#issue-1101578411">"double totalBonus" считает не верно</a>
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные: https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+В качестве тестовых данных использовались
+данные: https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+
 * 0.9
 
 Тестирование производилось в следующем окружении:
+
 * OC Windows 10, 64
 * Java 11.0.11
